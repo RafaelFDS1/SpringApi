@@ -1,4 +1,4 @@
-package com.example.todoapi.configurations;
+package com.example.todoapi.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
